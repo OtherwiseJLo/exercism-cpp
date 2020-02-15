@@ -1,0 +1,7 @@
+*.idea/*
+*/build/*
+*/CMakeFiles/*
+*/.exercism/*
+*.cmake
+*[Cc]ache*
+*.dir
