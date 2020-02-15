@@ -6,3 +6,4 @@
 *.cmake
 *[Cc]ache*
 *.dir
+*.clang-format
